@@ -1,0 +1,1 @@
+logo_canvas.create_polygon(18, 2, 34, 10, 34, 26, 18, 34, 2, 26, 2, 10, fill=ACCENT_CYAN, outline="")
